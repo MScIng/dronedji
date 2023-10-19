@@ -1,7 +1,7 @@
 const ROBOFLOW_SETTINGS = {
     publishable_key: "rf_5w20VzQObTXjJhTjq6kad9ubrm33", // grab from your account settings (you can use it to restrict access to your model)
 
-    model: "vehicle-detection-gr77r",   // change to detect something other than solar panels (find other models at https://universe.roboflow.com/browse/aerial)
+    model: "cars-doggl",   // change to detect something other than solar panels (find other models at https://universe.roboflow.com/browse/aerial)
                                     // or train your own at https://app.roboflow.com
     version: 5, // use the version of your model with the best results
 
